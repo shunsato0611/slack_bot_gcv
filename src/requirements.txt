@@ -19,5 +19,5 @@ slackbot==0.5.3
 slacker==0.13.0
 typing==3.6.6
 typing-extensions==3.7.2
-urllib3==1.25.3
+urllib3==1.26.5
 websocket-client==0.44.0
