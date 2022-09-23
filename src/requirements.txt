@@ -8,7 +8,7 @@ logzero==1.5.0
 mecab-python3==0.996.2
 numpy==1.16.4
 pandas==0.24.2
-protobuf==3.7.1
+protobuf==3.18.3
 pyknp==0.4.1
 python-dateutil==2.8.0
 pytz==2019.1
